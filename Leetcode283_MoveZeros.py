@@ -15,3 +15,10 @@ class Solution:
             
         for i in range(len(non_zero),len(nums)):
             nums[i] = 0
+
+        ##111
+    def moveZeroes2(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        
